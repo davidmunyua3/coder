@@ -1,12 +1,14 @@
-h1 {
+h1
+{
   color: blue;
   text-align : center;
 }
-h2 {color:blue
+h2 color:blue
 text-align :  center;
   font-style: italic;
 }
-p{
+p
+{
   font-style: italic;
 }
 ol{line-height: normal;
@@ -17,17 +19,28 @@ ol{line-height: normal;
 }
 p.mantra{font-size: 20px
 }
-.line1 {
+.line1
+{
   color: red;
 }
-#line2 {
+#line2
+{
   color: red;
 }
-.navbar {
+.navbar
+ {
   float: none;
   list-style-type: georgian;
   margin-top: 25px;
 }
-.navbar li{
+.navbar li
+{
   display: inline-block;
+}
+.navbar li a
+{
+  color: blue;
+  text-decoration :none;
+  padding: 5px 20px;
+  font-family: sans-serif;
 }
