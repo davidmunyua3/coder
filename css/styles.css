@@ -23,3 +23,11 @@ p.mantra{font-size: 20px
 #line2 {
   color: red;
 }
+.navbar {
+  float: none;
+  list-style-type: georgian;
+  margin-top: 25px;
+}
+.navbar li{
+  display: inline-block;
+}
