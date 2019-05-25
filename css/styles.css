@@ -44,3 +44,7 @@ p.mantra{font-size: 20px
   padding: 5px 20px;
   font-family: sans-serif;
 }
+img
+{
+  float: left;
+}
