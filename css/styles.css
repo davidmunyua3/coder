@@ -93,3 +93,27 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+.robotics
+{
+width:hsla(360, 100%, 100%, 0.5);%;
+float:none;
+background-color: inherit;
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: yellowgreen;
+  }
+}
