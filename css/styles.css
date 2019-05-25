@@ -1,7 +1,7 @@
 h1
 {
-  color: blue;
-  text-align : center;
+  color: red;
+  text-align : left;
   font-size: italic;
 }
 h2 color:blue
@@ -30,6 +30,29 @@ text-align :  center;
   padding: 5px 20px;
   font-family: sans-serif;
 }
+.active {
+  background-color: #4CAF50;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 img
 {
   float: right;
