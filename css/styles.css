@@ -2,27 +2,13 @@ h1
 {
   color: blue;
   text-align : center;
+  font-size: italic;
 }
 h2 color:blue
 text-align :  center;
   font-style: italic;
 }
-p
-{
-  font-style: italic;
-}
-ol{line-height: normal;
-}
-.mantra{font-style: italic;
-}
-.mantra{color: green
-}
-p.mantra{font-size: 20px
-}
-.line1
-{
-  color: red;
-}
+
 #line2
 {
   color: red;
@@ -47,4 +33,10 @@ p.mantra{font-size: 20px
 img
 {
   float: right;
+}
+.sidebar
+{
+width:30%;
+float:right;
+background-color: blue;
 }
