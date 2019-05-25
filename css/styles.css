@@ -17,7 +17,7 @@ text-align :  center;
  {
   float: none;
   list-style-type: georgian;
-  margin-top: 25px;
+  margin-top: 50px;
 }
 .navbar li
 {
@@ -26,12 +26,23 @@ text-align :  center;
 .navbar li a
 {
   color: blue;
-  text-decoration :none;
-  padding: 5px 20px;
+  text-decoration: none;
+  padding: 5px 100px;
   font-family: sans-serif;
 }
 .active {
   background-color: #4CAF50;
+}
+body
+{
+  background-color: lightblue;
+}
+div sidebar {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
 
 
