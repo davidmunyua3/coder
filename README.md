@@ -1,5 +1,5 @@
 # DAVID MUNYUA PORTFOLIO LANDING PAGE
-#### This is a brief description of my profile, skills, portfolio and Interests}, {Date of current version 26th May 2019
+#### This is a brief description of my profile, skills, portfolio and Interests, {Date of current version 26th May 2019
 #### By **contribution by David Munyua**
 ## Description
 This portfolio landing page is a detailed description of my qualifications and skills in software development. Its purpose is to give potential companies hiring software developers assess my suitability in varius projects they may have.
